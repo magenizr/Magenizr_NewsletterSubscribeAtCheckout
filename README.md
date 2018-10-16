@@ -43,7 +43,7 @@ php bin/magento setup:upgrade
 ## Features
 * The option `Checked` allows you to pre-tick the newsletter checkbox. Default is `No`.
 * The text field `Label` allows you to display a custom label.
-* With the option `Note` you can display a custom text right below the newsletter subscription.
+* With the option `Note` you can display a custom text right below the newsletter subscription. HTML is supported.
 
 ## Usage
 The functionality can be used in the backend section `Stores > Configuration > Sales > Checkout > Newsletter Subscribe At Checkout`.

@@ -49,7 +49,7 @@
                 </field>
                 <field id="note" translate="label" type="textarea" sortOrder="50" showInDefault="1" showInWebsite="1" showInStore="1">
                     <label>Text for Note</label>
-                    <comment>E.g: Subscribe now and receive great discount codes monthly.</comment>
+                    <comment>E.g: Subscribe now and receive great discount codes monthly. HTML is supported.</comment>
                     <depends>
                         <field id="enabled">1</field>
                     </depends>
